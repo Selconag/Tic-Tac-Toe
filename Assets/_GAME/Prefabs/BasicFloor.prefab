@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 6490608931401112993}
   - component: {fileID: 6518030571150283969}
   - component: {fileID: 6508417737288308803}
+  - component: {fileID: 6398576771485861474}
   m_Layer: 0
   m_Name: Floor_Tile_Stone_A
   m_TagString: Untagged
@@ -115,3 +116,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6398576771485861474
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6487372286271938517}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.8679473, y: 0.10282877, z: 2.8679473}
+  m_Center: {x: 0, y: -0.051414885, z: 0}
